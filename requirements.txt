@@ -11,3 +11,11 @@ langsmith
 
 langchain-mcp-adapters
 mcp
+
+pypdf
+pymupdf
+langchain-text-splitters
+
+sentence-transformers
+faiss-cpu
+chromadb
